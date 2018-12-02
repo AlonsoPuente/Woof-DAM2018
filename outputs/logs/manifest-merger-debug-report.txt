@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5ccbfe0b24d94edb15145e541e6e7a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57721faa065cf0742ec708f7a24d0b99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5bac8d65d00fce97ab1f1d50cca21d64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8b02f54727f1fd858435448907693ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b32177402668374e90099b79f25954b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e94d40432b9eb0cd21e3f93b6f41c1a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30aefd4c77ae0af1f39067ab92cfda9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64d37cb751570edb8e9a68f35181a902\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cdc0e06a897ea7fcb41fde5d364721da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\199bd7264bd17b91f7ad62090cbc4ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f87d4f9fa503f2077e9173fe1d41adf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c0f6f1c3f426710e910e140ca32378d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a3c8ee4ad2bfd384b40bd448f6086070\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e5760f171720cd4f748dae6790166db4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01ce2de26837731c46cb3b2f7ef57ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f773576d8000cc09466c3f9a4e51026\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\65fab7947d76e7a0cdc5e7513d3b7ade\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\923e4abfd64433c7333f257092bfe6be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8a30d69c45f94ed052945198883e109\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b32177402668374e90099b79f25954b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b32177402668374e90099b79f25954b6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e94d40432b9eb0cd21e3f93b6f41c1a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e94d40432b9eb0cd21e3f93b6f41c1a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.pedro.woof.Albergue.MainActivity_Albergue
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:15:19-65
+meta-data#preloaded_fonts
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:17:9-19:57
+	android:resource
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:18:13-43
+activity#com.example.pedro.woof.SolicitudesActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:21:19-54
+activity#com.example.pedro.woof.CarlosActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.pedro.woof.Adoptante.MainActivity_Adoptante
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:23:19-67
+activity#com.example.pedro.woof.MainGeneralActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:24:9-57
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:24:19-54
+activity#com.example.pedro.woof.LoginGeneralActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:25:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.pedro.woof.LoginAdoptanteActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:32:19-57
+activity#com.example.pedro.woof.LoginAlbergueActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:33:19-56
+activity#com.example.pedro.woof.Albergue.RegistroAlbergueActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:34:19-68
+activity#com.example.pedro.woof.RegistroPerroActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:35:9-59
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:35:19-56
+activity#com.example.pedro.woof.RegistroAdoptanteActivity
+ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:36:9-72
+	android:name
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml:36:19-60
+uses-sdk
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5ccbfe0b24d94edb15145e541e6e7a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5ccbfe0b24d94edb15145e541e6e7a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57721faa065cf0742ec708f7a24d0b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57721faa065cf0742ec708f7a24d0b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5bac8d65d00fce97ab1f1d50cca21d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\5bac8d65d00fce97ab1f1d50cca21d64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8b02f54727f1fd858435448907693ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8b02f54727f1fd858435448907693ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b32177402668374e90099b79f25954b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b32177402668374e90099b79f25954b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e94d40432b9eb0cd21e3f93b6f41c1a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\1e94d40432b9eb0cd21e3f93b6f41c1a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30aefd4c77ae0af1f39067ab92cfda9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\30aefd4c77ae0af1f39067ab92cfda9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64d37cb751570edb8e9a68f35181a902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64d37cb751570edb8e9a68f35181a902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cdc0e06a897ea7fcb41fde5d364721da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cdc0e06a897ea7fcb41fde5d364721da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\199bd7264bd17b91f7ad62090cbc4ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\199bd7264bd17b91f7ad62090cbc4ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f87d4f9fa503f2077e9173fe1d41adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f87d4f9fa503f2077e9173fe1d41adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c0f6f1c3f426710e910e140ca32378d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c0f6f1c3f426710e910e140ca32378d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a3c8ee4ad2bfd384b40bd448f6086070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a3c8ee4ad2bfd384b40bd448f6086070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e5760f171720cd4f748dae6790166db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e5760f171720cd4f748dae6790166db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01ce2de26837731c46cb3b2f7ef57ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01ce2de26837731c46cb3b2f7ef57ed5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f773576d8000cc09466c3f9a4e51026\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f773576d8000cc09466c3f9a4e51026\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\65fab7947d76e7a0cdc5e7513d3b7ade\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\65fab7947d76e7a0cdc5e7513d3b7ade\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\923e4abfd64433c7333f257092bfe6be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\923e4abfd64433c7333f257092bfe6be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8a30d69c45f94ed052945198883e109\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8a30d69c45f94ed052945198883e109\AndroidManifest.xml:20:5-44
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		ADDED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Woof.v18-semifinal\Woof\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\41137e3ba612c01339c7a7934851fab1\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\f73d0885cbea7b3d1e10968f2a6b6324\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\laboratorioesan\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\6e64fe436b3c6558a67ceeffdfda9fcb\AndroidManifest.xml:24:13-58
