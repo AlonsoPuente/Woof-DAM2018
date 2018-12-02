@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroPerroActivity"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/textview23123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/roboto_condensed_bold"
+        android:text="Registro   MASCOTA"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="18dp" />
+
+    <EditText
+        android:id="@+id/txtNombreDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Nombre del Perro"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"/>
+
+
+
+    <EditText
+        android:id="@+id/txtEdadDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Edad"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/txtSexoDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Sexo"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"/>
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="395dp"
+        android:layout_height="114dp"
+        app:srcCompat="@drawable/perro4"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnInsertarImg"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="Adjuntar Imagen"
+        android:textSize="14dp"
+        android:textAllCaps="false"
+        android:fontFamily="@font/roboto_condensed_regular"
+        android:layout_marginRight="110dp"
+        android:layout_marginLeft="110dp"/>
+
+    <EditText
+        android:id="@+id/txtDescripcionDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Descripción"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/txtAlbergueDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Albergue"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <Button
+        android:id="@+id/btnRegistrarDog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrar"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="15dp"/>
+
+</LinearLayout>

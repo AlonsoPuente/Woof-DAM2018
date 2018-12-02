@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginAdoptanteActivity"
+    android:orientation="vertical"
+    android:id="@+id/linearAdopt">
+
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/login_icon"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/roboto_condensed_bold"
+        android:text="Inicio de Sesión Adoptante"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="18dp" />
+    <EditText
+        android:id="@+id/txtCorreoAdopt"
+        android:layout_width="315dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="Correo"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"/>
+
+    <EditText
+        android:id="@+id/txtClaveAdopt"
+        android:layout_width="315dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:hint="Contraseña"
+        android:inputType="numberPassword" />
+
+
+
+    <Button
+        android:id="@+id/btnIngresarAdopt"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="110dp"
+        android:text="INGRESAR"
+        android:background="#8ce6ec"/>
+
+    <TextView
+        android:id="@+id/tvRegisterAdopt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft  ="141dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Click  to Register." />
+</LinearLayout>
