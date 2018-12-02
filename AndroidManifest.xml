@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pedro.woof">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icono_app"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icono_app"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Albergue.MainActivity_Albergue" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".SolicitudesActivity" />
+        <activity android:name=".CarlosActivity" />
+        <activity android:name=".Adoptante.MainActivity_Adoptante" />
+        <activity android:name=".MainGeneralActivity" />
+        <activity android:name=".LoginGeneralActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginAdoptanteActivity" />
+        <activity android:name=".LoginAlbergueActivity" />
+        <activity android:name=".Albergue.RegistroAlbergueActivity" />
+        <activity android:name=".RegistroPerroActivity" />
+        <activity android:name=".RegistroAdoptanteActivity"></activity>
+    </application>
+
+</manifest>
